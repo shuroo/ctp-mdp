@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Maven: org.jheaps:jheaps:0.13">
+    <ANNOTATIONS>
+      <root url="file://$MAVEN_REPOSITORY$/org/jgrapht" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jheaps/jheaps/0.13/jheaps-0.13.jar!/" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jgrapht" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$MAVEN_REPOSITORY$/org/jgrapht" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$MAVEN_REPOSITORY$/org/jgrapht" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$MAVEN_REPOSITORY$/org/jgrapht" />
+    </SOURCES>
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/jgrapht" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/jgrapht" recursive="false" type="SOURCES" />
+  </library>
+</component>
